@@ -1,0 +1,59 @@
+# Copyright (C) 2023 Sathyaseelan
+# This file is distributed under the GPLv3 or Later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Forms 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-forms\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-30T16:09:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: simple-forms\n"
+
+#. Plugin Name of the plugin
+msgid "Simple Forms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://URI_Of_Page_Describing_Plugin_and_Updates"
+msgstr ""
+
+#. Description of the plugin
+msgid "Creating this plugin for Wpmudev as a part of the interview process."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sathyaseelan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://inperks.org"
+msgstr ""
+
+#: templates/form-template.php:14
+msgid "Thing's name"
+msgstr ""
+
+#: templates/form-template.php:16
+msgid "Enter thing's name"
+msgstr ""
+
+#: templates/form-template.php:17
+msgid "Save"
+msgstr ""
+
+#: templates/list-template.php:17
+msgid "Enter the search keyword"
+msgstr ""
+
+#: templates/list-template.php:18
+msgid "Search"
+msgstr ""
+
+#: templates/list-template.php:26
+msgid "Load More"
+msgstr ""
